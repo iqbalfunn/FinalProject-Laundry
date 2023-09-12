@@ -1,0 +1,24 @@
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.exe
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.deps.json
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.runtimeconfig.json
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.runtimeconfig.dev.json
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.dll
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.pdb
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.AssemblyInfo.cs
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.dll
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.pdb
+C:\Users\Asus\Documents\TUGAAS\Tugas\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.genruntimeconfig.cache
+E:\BAL\KULIAH 3,5 TAHUN!\semester 2\Pemrograman\FINAL PROJECT\FinalProjectPemrograman\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.exe
+E:\BAL\KULIAH 3,5 TAHUN!\semester 2\Pemrograman\FINAL PROJECT\FinalProjectPemrograman\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.deps.json
+E:\BAL\KULIAH 3,5 TAHUN!\semester 2\Pemrograman\FINAL PROJECT\FinalProjectPemrograman\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.runtimeconfig.json
+E:\BAL\KULIAH 3,5 TAHUN!\semester 2\Pemrograman\FINAL PROJECT\FinalProjectPemrograman\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.runtimeconfig.dev.json
+E:\BAL\KULIAH 3,5 TAHUN!\semester 2\Pemrograman\FINAL PROJECT\FinalProjectPemrograman\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.dll
+E:\BAL\KULIAH 3,5 TAHUN!\semester 2\Pemrograman\FINAL PROJECT\FinalProjectPemrograman\FinalProjectPemrograman\bin\Debug\netcoreapp3.1\FinalProjectPemrograman.pdb
+E:\BAL\KULIAH 3,5 TAHUN!\semester 2\Pemrograman\FINAL PROJECT\FinalProjectPemrograman\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.csprojAssemblyReference.cache
+E:\BAL\KULIAH 3,5 TAHUN!\semester 2\Pemrograman\FINAL PROJECT\FinalProjectPemrograman\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.AssemblyInfoInputs.cache
+E:\BAL\KULIAH 3,5 TAHUN!\semester 2\Pemrograman\FINAL PROJECT\FinalProjectPemrograman\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.AssemblyInfo.cs
+E:\BAL\KULIAH 3,5 TAHUN!\semester 2\Pemrograman\FINAL PROJECT\FinalProjectPemrograman\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.dll
+E:\BAL\KULIAH 3,5 TAHUN!\semester 2\Pemrograman\FINAL PROJECT\FinalProjectPemrograman\FinalProjectPemrograman\obj\Debug\netcoreapp3.1\FinalProjectPemrograman.pdb
